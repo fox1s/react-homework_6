@@ -1,0 +1,7 @@
+.user-div{
+    font-size: 25px;
+    display: flex;
+}
+.phone-user, .name-user, .username-user{
+    width: 400px;
+}

@@ -1,0 +1,29 @@
+/*.users-div{*/
+/*    display: inline-block;*/
+/*    border: 2px solid black;*/
+/*    padding: 5px;*/
+/*    margin-top: 5px;*/
+/*}*/
+
+.users-div {
+    margin: 0 75px 10px 80px;
+}
+
+.body-title {
+    margin-left: 85px;
+    display: flex;
+    justify-content: space-between;
+    width: 850px;
+
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.chosen-user-div{
+    font-size: 30px;
+    font-weight: bold;
+    border: 2px solid #282c34;
+    border-radius: 5px;
+    padding: 5px;
+    /*width: 1050px;*/
+}
